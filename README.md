@@ -74,7 +74,7 @@ Prod is licensed under the MIT License. You can find the full license text in th
 
 ## Contact
 
-For any questions or support related to Prod, you can contact [Gautam](gautamnegi0202@protonmail.com).
+For any questions or support related to Prod, you can contact gautamnegi0202@protonmail.com.
 
 ---
 
