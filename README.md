@@ -16,7 +16,7 @@ Prod is a software designed to provide a validation mark on documents to prevent
 
 1. Clone the repository from GitHub:
    ```
-   git clone https://github.com/gautam132002/prod
+   git clone https://github.com/gautam132002/prod.git
    ```
 
 2. Activate the virtual environment:
