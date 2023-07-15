@@ -151,33 +151,5 @@ opps!! somthing went wrong...
 check internet connection/input... 
 """)
 
-                
-                
-            
-            
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
